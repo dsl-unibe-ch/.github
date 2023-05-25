@@ -7,7 +7,7 @@
 
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=afXUHAUZ4dk" target="_blank">
- <img src="https://github.com/dsl-unibe-ch/.github/assets/6328618/6f313cb7-1ba1-4de9-944f-1b6dbf00e49c" alt="Watch the video" width="900" border="10" />
+ <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/6328618/240999498-6f313cb7-1ba1-4de9-944f-1b6dbf00e49c.png" alt="Watch the video" width="900" border="10" />
 </a>
 
 ***Data issues? Who you gonna call?***
